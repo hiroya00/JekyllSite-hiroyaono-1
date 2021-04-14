@@ -1,0 +1,12 @@
+---
+layout: archive
+permalink: /news/
+title: "News"
+exerpt: 
+---
+
+<div class="tiles">
+{% for post in site.categories.News %}
+	{% include post-grid.html %}
+{% endfor %}
+</div><!-- /.tiles -->

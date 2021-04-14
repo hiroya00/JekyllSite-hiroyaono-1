@@ -1,0 +1,37 @@
+﻿.aboutprofile {
+  float: left;
+  margin-right: 15px;
+  margin-bottom: 15px;
+}
+h4.about {
+  overflow: hidden;
+  padding-left:10px;
+}
+p1.about {
+  display: inline-block;
+  vertical-align: top;
+}
+
+h5.about {
+  clear: left;
+  line-height: 19px;
+  box-sizing:content-box !important;
+  height: 0px;
+}
+
+.about2 {
+  vertical-align: bottom;
+  margin-right: 3px;
+  margin-bottom: 0px !important;
+}
+
+#about1 {
+  padding: 2px;
+  position: relative;
+  top: 0px;
+  left: 2px;
+}
+
+#about1:hover {
+  border-bottom: solid 2px #000000;
+}

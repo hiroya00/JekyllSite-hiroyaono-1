@@ -1,1 +1,1 @@
-Sitemap: https://jekyllsite-hiroyaono-1.icom101.repl.co/sitemap.xml
+Sitemap: /sitemap.xml
