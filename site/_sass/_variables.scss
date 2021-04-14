@@ -81,12 +81,12 @@ $form-font-size              	: $doc-font-size;
    ========================================================================== */
 
 $sliding-menu-border-color	 	 : $black;
-$sliding-menu-background 		   : $black;
-$sliding-menu-color 	 		     : $white;
+$sliding-menu-background 		   : #FF6600;
+$sliding-menu-color 	 		     : $black;
 $sliding-menu-background-hover : $black;
-$sliding-menu-color-hover	 	   : $white;
+$sliding-menu-color-hover	 	   : $black;
 $sliding-menu-border   			   : 1px solid $sliding-menu-border-color;
-$button-size		         	     : 30px;
+$button-size		         	     : 20px;
 $transition						         : 0.3s; // increase this to see the transformations in slow-motion
 $sliding-menu-animation        : all 500ms cubic-bezier(.86,.01,.77,.78);
 
