@@ -131,11 +131,11 @@
   li {
     display: block;
     position: relative;
-    padding-bottom: 1em;
+    padding-bottom: 0.05em;
     min-height: 70px;
 
     @include media($small) {
-      min-height: 100px;
+      min-height: 10px;
     }
   }
 
