@@ -11,3 +11,7 @@
   top: -2px;
   margin-right: 0px !important;
 }
+
+#headericon3::after{
+  content: none !important;
+}
