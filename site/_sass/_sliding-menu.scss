@@ -132,13 +132,13 @@
     display: block;
     position: relative;
     padding-bottom: 0.05em;
-    min-height: 70px;
-
+    min-height: 50px;
+    
     @include media($small) {
       min-height: 10px;
     }
   }
-
+  
   .menu-item {
     a {
       display: block;
@@ -167,13 +167,14 @@
     .title {
       display: block;
       margin-left: 0px;
+      border-bottom: solid 1px #000000;
       font-family: $alt-font;
       @include font-size(24,no);
       font-weight: 200;
 
       @include media($small) {
         margin-left: 0px;
-        border-bottom: solid 1px #000000;
+        
         @include font-size(24,no);
       }
     }
