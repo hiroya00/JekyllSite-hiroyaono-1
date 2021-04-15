@@ -37,7 +37,7 @@
   z-index: 20;
   box-sizing: border-box;
   &:hover {
-    background: $black;
+    background: #ff6600;
   }
   transition: $sliding-menu-animation;
   &.slide {

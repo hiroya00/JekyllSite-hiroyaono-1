@@ -30,3 +30,7 @@
 .tile .entry-date{
    display: none;
 }
+
+#js-menu-trigger{
+  line-height: 0;
+}
