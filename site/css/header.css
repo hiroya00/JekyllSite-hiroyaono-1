@@ -12,6 +12,22 @@
   margin-right: 0px !important;
 }
 
+#headericon3{
+  position: fixed;
+  
+}
+
 #headericon3::after{
   content: none !important;
+}
+
+#slidingicon4 {
+    margin-left: 10px;
+    font-family: "Helvetica Neue","Segoe UI",Arial,sans-serif;
+    position: relative;
+    top: 1px;
+}
+
+#slidingicon4:hover {
+    border-bottom: solid 1px #724D11 !important;
 }
