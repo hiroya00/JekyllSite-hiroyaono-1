@@ -26,3 +26,7 @@
 #slidingicon4:hover {
     border-bottom: solid 1px #724D11 !important;
 }
+
+.tile .entry-date{
+   display: none;
+}
