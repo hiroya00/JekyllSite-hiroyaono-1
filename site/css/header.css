@@ -34,3 +34,12 @@
 #js-menu-trigger{
   line-height: 0px;
 }
+
+h1{
+  font-weight: 610;
+}
+
+h3.home{
+  font-weight: 390;
+  text-align: center;
+}
