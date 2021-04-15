@@ -1,22 +1,17 @@
 #headericon1 {
 	position: relative;
-  left: 40px;
+  left: 0px;
   top: -2px;
   margin-right: 0px !important;
 }
 
 #headericon2 {
 	position: relative;
-  left: 80px;
+  left: 0px;
   top: -2px;
   margin-right: 0px !important;
 }
-
-#headericon3{
-  position: fixed;
   
-}
-
 #headericon3::after{
   content: none !important;
 }

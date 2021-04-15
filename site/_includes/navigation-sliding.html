@@ -1,7 +1,7 @@
 <nav role="navigation" id="js-menu" class="sliding-menu-content">
   <h5>{{ site.title }} <span>{{ site.data.messages.locales[site.locale].toc }}</span></h5>
   <ul class="menu-item">
-    {% for link in site.data.navigation %}<li>
+    {% for link in site.data.navigation limit:3 offset:0 %}<li>
       <a href="{{ site.url }}{{ link.url }}" id="sliding-menu-titles">
         {% if link.image %}<img src="{{ site.url }}/images/{{ link.image }}" alt="teaser" class="teaser">{% endif %}
         <div class="title">{{ link.title }}</div>

@@ -14,3 +14,9 @@
   url: /about/
   excerpt: 
   image:
+
+- title: <img src="/images/instagram-logo.png" alt="Instagram" width="20" height="20" id="headericon1">
+  url: https://www.instagram.com/vrs_ono/
+
+- title: <img src="/images/soundcloud-logo.png" alt="SoundCloud" id="headericon2" width="25" height="25">
+  url: https://soundcloud.com/user-364405231
