@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: article-news
 title:  "Yokohama - Single out now!!"
 category: News
 image:
