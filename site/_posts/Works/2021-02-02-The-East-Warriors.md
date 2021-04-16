@@ -4,6 +4,8 @@ title:  "The East Warriors"
 category: Works
 image:
   teaser: Artwork-The-East-Warriors.jpg
+
+parent-url: works
 ---
 
 Instrumental Music for Rappers

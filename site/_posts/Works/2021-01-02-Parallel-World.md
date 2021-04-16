@@ -4,6 +4,8 @@ title:  "Parallel World"
 category: Works
 image:
   teaser: Artwork-Parallel-World.jpg
+
+parent-url: works
 ---
 
 Instrumental Music

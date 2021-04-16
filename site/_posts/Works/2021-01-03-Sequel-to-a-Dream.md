@@ -4,9 +4,11 @@ title:  "Sequel to a Dreram ft. Shota"
 category: Works
 image:
   teaser: Artwork-Sequel-to-a-Dream.jpg
+
+parent-url: works
 ---
 
-Vocal Music with a guitarist
+Vocal Music with a Guitarist
 
 <p1>Music: Hiroya Ono & Shota<br>
 Artwork: Hiroya Ono

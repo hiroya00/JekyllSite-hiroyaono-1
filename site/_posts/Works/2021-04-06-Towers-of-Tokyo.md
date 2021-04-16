@@ -4,6 +4,8 @@ title:  "Towers of Tokyo"
 category: Works
 image:
   teaser: Artwork-Towrs-of-Tokyo.jpg
+
+parent-url: works
 ---
 
 Instrumental Music
