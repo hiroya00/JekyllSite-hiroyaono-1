@@ -9,4 +9,6 @@ parent-url: works
 ---
 Type Beats for Rappers
 
+<p1>
 Music & Artwork: Hiroya Ono
+</p1>
