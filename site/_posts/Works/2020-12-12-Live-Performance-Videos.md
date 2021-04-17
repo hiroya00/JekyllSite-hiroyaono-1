@@ -1,6 +1,6 @@
 ---
 layout: article
-title:  "Live Performance Video"
+title:  "Live Performance Videos"
 category: Works
 image: 
   teaser: Live-Performance-Video.jpg
