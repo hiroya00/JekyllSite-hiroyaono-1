@@ -1,135 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="utf-8">
-    <title>Home | HIROYA ONO</title>
-    
-    
-    
-    	<!-- Twitter Cards -->
-	<meta name="twitter:title" content="Home">
-	
-	
-	
-	
-	<meta name="twitter:card" content="summary">
-	<meta name="twitter:image" content="/images/">
-	
-	<!-- Open Graph -->
-	<meta property="og:locale" content="en">
-	<meta property="og:type" content="article">
-	<meta property="og:title" content="Home">
-	
-	<meta property="og:url" content="/">
-	<meta property="og:site_name" content="HIROYA ONO">
-
-    <link rel="canonical" href="/">
-
-    <link href="/atom.xml" type="application/atom+xml" rel="alternate" title="HIROYA ONO Atom Feed">
-    <link href="/sitemap.xml" type="application/xml" rel="sitemap" title="Sitemap">
-
-    <meta name="HandheldFriendly" content="True">
-    <meta name="MobileOptimized" content="320">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="cleartype" content="on">
-
-    <link rel="stylesheet" href="/css/main.css">
-    <link rel="stylesheet" href="/css/about.css">
-    <link rel="stylesheet" href="/css/header.css">
-    
-    <!-- HTML5 Shiv and Media Query Support for IE -->
-    <!--[if lt IE 9]>
-      <script src="/js/vendor/html5shiv.min.js"></script>
-      <script src="/js/vendor/respond.min.js"></script>
-    <![endif]-->
-
-</head>
-
-  <body id="js-body">
-    <!--[if lt IE 9]><div class="upgrade notice-warning"><strong>Your browser is quite old!</strong> Why not <a href="http://whatbrowser.org/">upgrade to a newer one</a> to better enjoy this site?</div><![endif]-->
-
-    <header id="masthead">
-  <div class="inner-wrap">
-    <a href="/" class="site-title">HIROYA ONO</a>
-    <nav role="navigation" class="menu top-menu">
-        <ul class="menu-item">
-	<li class="home"><a href="/">HIROYA ONO</a></li>
-	
-    
-    <li><a href="/works/" >WORKS</a></li>
-  
-    
-    <li><a href="/news/" >NEWS</a></li>
-  
-    
-    <li><a href="/about/" >ABOUT</a></li>
-  
-    
-    <li><a href="https://www.instagram.com/vrs_ono/" target="_blank"><img src="/images/instagram-logo.png" alt="Instagram" width="20" height="20" id="headericon1"></a></li>
-  
-    
-    <li><a href="https://soundcloud.com/hiroya-ono" target="_blank"><img src="/images/soundcloud-logo.png" alt="SoundCloud" id="headericon2" width="25" height="25"></a></li>
-  
-</ul>
-    </nav>
-  </div><!-- /.inner-wrap -->
-</header><!-- /.masthead -->
-    <nav role="navigation" id="js-menu" class="sliding-menu-content">
-  <h5>HIROYA ONO <span></span></h5>
-  <ul class="menu-item">
-    <li>
-      <a href="/works/" id="sliding-menu-titles">
-        
-        <div class="title">WORKS</div>
-        
-      </a>
-    </li><li>
-      <a href="/news/" id="sliding-menu-titles">
-        
-        <div class="title">NEWS</div>
-        
-      </a>
-    </li><li>
-      <a href="/about/" id="sliding-menu-titles">
-        
-        <div class="title">ABOUT</div>
-        
-      </a>
-    </li>
-  </ul>
-      <div>
-      <ul>
-      <li>
-          <a href="https://www.instagram.com/vrs_ono/" id="slidericon3"><img src="/images/instagram-logo.png" alt="Instagram" width="20" height="20" id="slidericon1"></a>
-          <a href="https://www.instagram.com/vrs_ono/" target="_blank" id="slidingicon4">INSTAGRAM</a>
-      </li>
-      </ul>
-      <ul>
-      <li>
-        <a href="https://soundcloud.com/user-364405231" id="slidericon3"><img src="/images/soundcloud-logo.png" alt="SoundCloud" width="20" height="20" id="slidericon2"></a>
-        <a href="https://soundcloud.com/hiroya-ono" target="_blank" id="slidingicon4">SOUNDCLOUD</a>
-      </li>
-      </ul>
-      </div>  
-</nav>
-<button type="button" id="js-menu-trigger" class="sliding-menu-button lines-button x2" role="button" aria-label="Toggle Navigation">
-  <span class="nav-lines"></span>
-</button>
-
-<div id="js-menu-screen" class="menu-screen"></div>
-
-
-    <div id="page-wrapper">
-      <div id="main" role="main">			
-	<div class="wrap">
-		
-		<div class="page-title">
-			<h1>Home</h1>
-			
-		</div>
-		<div class="archive-wrap">
-			<div class="page-content">
-				<h3 class="home">Hiroya Ono is a Music Producer in Tokyo, Japan</h3>
+I"1 <h3 class="home">Hiroya Ono is a Music Producer in Tokyo, Japan</h3>
 <div class="tiles">
 
 	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
@@ -272,6 +141,11 @@
 -->
   <h2 class="post-title" itemprop="name"><a href="/works-music/Shape-of-Your-Heart/">Shape of Your Heart</a></h2>
   <p class="post-excerpt" itemprop="description">Instrumental Music
+
+
+Music: Hiroya Ono
+Artwork Photo: Unsplash (Edited by Hiroya Ono)
+
 </p>
 </article><!-- /.tile -->
 
@@ -302,30 +176,4 @@
 
 </div>
 <!-- /.tiles -->
-
-			</div><!-- /.page-content -->
-		</div class="archive-wrap"><!-- /.archive-wrap -->
-	</div><!-- /.wrap -->
-</div><!-- /#main -->
-      <footer role="contentinfo" id="site-footer">
-	<nav role="navigation" class="menu bottom-menu">
-		<ul class="menu-item">
-		
-      
-			<li><a href="" >HIROYA ONO</a></li>
-		
-		</ul>
-	</nav><!-- /.bottom-menu -->
-	<p class="copyright">&#169; 2021 <a href="">HIROYA ONO</a> <!--Jekyll--> <a href="http://jekyllrb.com" rel="nofollow"><!--Jekyll--></a> <!--+--> <a href="http://mmistakes.github.io/jekyll-theme-skinny-bones/" rel="nofollow">
-  <!--Skinny Bones-->
-  </a><!--.--></p>
-</footer>
-
-    </div>
-
-    <script src="/js/vendor/jquery-1.9.1.min.js"></script>
-    <script src="/js/main.js"></script>
-
-  </body>
-
-</html>
+:ET
