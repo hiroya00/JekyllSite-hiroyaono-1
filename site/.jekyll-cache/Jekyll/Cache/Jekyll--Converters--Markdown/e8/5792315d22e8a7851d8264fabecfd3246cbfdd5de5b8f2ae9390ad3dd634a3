@@ -1,4 +1,4 @@
-I"1 <h3 class="home">Hiroya Ono is a Music Producer in Tokyo, Japan</h3>
+I"î<h3 class="home">Hiroya Ono is a Music Producer in Tokyo, Japan</h3>
 <div class="tiles">
 
 	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
@@ -122,18 +122,6 @@
 
 
 	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
-  <a href="/works-music/Parallel-World/" title="Parallel World" class="post-teaser"><img src="/images/Artwork-Parallel-World.jpg" alt="teaser" itemprop="image" />
-    </a>
-  <!--
-  <p class="entry-date date published"><time datetime="2021-01-02" itemprop="datePublished">January 02, 2021</time></p>
--->
-  <h2 class="post-title" itemprop="name"><a href="/works-music/Parallel-World/">Parallel World</a></h2>
-  <p class="post-excerpt" itemprop="description">Instrumental Music
-</p>
-</article><!-- /.tile -->
-
-
-	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
   <a href="/works-music/Shape-of-Your-Heart/" title="Shape of Your Heart" class="post-teaser"><img src="/images/Artwork-Shape-of-Your-Heart.jpg" alt="teaser" itemprop="image" />
     </a>
   <!--
@@ -141,11 +129,18 @@
 -->
   <h2 class="post-title" itemprop="name"><a href="/works-music/Shape-of-Your-Heart/">Shape of Your Heart</a></h2>
   <p class="post-excerpt" itemprop="description">Instrumental Music
+</p>
+</article><!-- /.tile -->
 
-Music: Hiroya Ono
-Artwork Photo: Unsplash (Edited by Hiroya Ono)
 
-
+	<article class="tile" itemscope="" itemtype="http://schema.org/Article">
+  <a href="/works-music/Parallel-World/" title="Parallel World" class="post-teaser"><img src="/images/Artwork-Parallel-World.jpg" alt="teaser" itemprop="image" />
+    </a>
+  <!--
+  <p class="entry-date date published"><time datetime="2020-12-20" itemprop="datePublished">December 20, 2020</time></p>
+-->
+  <h2 class="post-title" itemprop="name"><a href="/works-music/Parallel-World/">Parallel World</a></h2>
+  <p class="post-excerpt" itemprop="description">Instrumental Music
 </p>
 </article><!-- /.tile -->
 
