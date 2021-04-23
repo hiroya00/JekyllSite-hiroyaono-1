@@ -45,3 +45,7 @@ h3.home{
   font-weight: 390;
   text-align: center;
 }
+
+.bottom-menu a::after{
+  content: none !important;
+}
