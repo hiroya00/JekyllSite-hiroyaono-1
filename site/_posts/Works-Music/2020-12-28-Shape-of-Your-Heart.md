@@ -6,6 +6,8 @@ image:
   teaser: Artwork-Shape-of-Your-Heart.jpg
 
 parent-url: works
+
+tags: Instrumental Electronic IDM
 ---
 
 Instrumental Music

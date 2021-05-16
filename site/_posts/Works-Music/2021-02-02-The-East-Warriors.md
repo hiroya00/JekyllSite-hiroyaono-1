@@ -6,6 +6,8 @@ image:
   teaser: Artwork-The-East-Warriors.jpg
 
 parent-url: works
+
+tags: Electronic Trap Hiphop Instrumental
 ---
 
 Instrumental Music for Rappers

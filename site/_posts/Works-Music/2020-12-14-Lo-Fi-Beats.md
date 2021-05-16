@@ -6,6 +6,8 @@ image:
   teaser: Artwork-LFB.jpg
 
 parent-url: works
+
+tags: Instrumental Hiphop
 ---
 Type Beats for Rappers
 

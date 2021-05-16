@@ -6,6 +6,8 @@ image:
   teaser: Artwork-Sequel-to-a-Dream.jpg
 
 parent-url: works
+
+tags: Alternative Vocal
 ---
 
 Vocal Music with a Guitarist

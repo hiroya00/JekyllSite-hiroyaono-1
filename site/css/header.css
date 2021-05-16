@@ -49,3 +49,25 @@ h3.home{
 .bottom-menu a::after{
   content: none !important;
 }
+
+/* Filter */
+
+.filter {
+    border: 1px solid #222;
+    border-width: 1px 0;
+    padding: .5rem 0;
+    margin-bottom: 2rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a.filter-link {
+    transition: .3s;
+    padding: 0 .25em;
+    border-radius: .125em;
+}
+
+a.filter-link.current {
+  background: #222;
+  color: white;
+}

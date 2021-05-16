@@ -6,6 +6,8 @@ image:
   teaser: Artwork-Towrs-of-Tokyo.jpg
 
 parent-url: works
+
+tags: Instrumental Electronic IDM
 ---
 
 Instrumental Music

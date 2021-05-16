@@ -1,10 +1,9 @@
 ---
 layout: article-news
-title:  "Yokohama - Single out now!!"
+title: "Yokohama - Single out now!!"
 category: News
 image:
   teaser: Artwork-Yokohama.jpg
-
 parent-url: news
 ---
 

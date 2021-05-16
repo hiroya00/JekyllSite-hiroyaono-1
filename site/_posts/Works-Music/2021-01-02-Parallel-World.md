@@ -6,6 +6,8 @@ image:
   teaser: Artwork-Parallel-World.jpg
 
 parent-url: works
+
+tags: Instrumental Electronic IDM
 ---
 
 Instrumental Music

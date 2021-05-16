@@ -6,6 +6,8 @@ image:
   teaser: Artwork-Rolling.jpg
 
 parent-url: works
+
+tags: Electronic Instrumental
 ---
 
 Instrumental Music
